@@ -1,2 +1,7 @@
+<<<<<<< HEAD
 a+b=c+d=e
 aa 
+=======
+a+b=c
+ 
+>>>>>>> master
